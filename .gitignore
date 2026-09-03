@@ -1,0 +1,15 @@
+.DS_Store
+
+# Source worksheets and editable documents are not website assets.
+*.xlsx
+*.docx
+
+# Superseded or unused portfolio source files.
+assets/张晓彤_个人简历.pdf
+assets/AI项目作品集_张晓彤.pdf
+assets/个人作品集_张晓彤.pdf
+assets/claudia-desk-hero.png
+assets/claudia-portrait.jpg
+assets/claudia-standing-transparent.png
+assets/journey-image.png
+journey/journey-reference.png
